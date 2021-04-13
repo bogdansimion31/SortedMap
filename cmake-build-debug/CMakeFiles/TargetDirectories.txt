@@ -1,0 +1,3 @@
+/home/sweethuman/CLionProjects/UBB-Y1-S2-DSA/Lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sweethuman/CLionProjects/UBB-Y1-S2-DSA/Lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sweethuman/CLionProjects/UBB-Y1-S2-DSA/Lab5/cmake-build-debug/CMakeFiles/Lab5.dir

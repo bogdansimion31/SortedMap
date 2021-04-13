@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab5.dir/App.cpp.o CMakeFiles/Lab5.dir/ExtendedTest.cpp.o CMakeFiles/Lab5.dir/ShortTest.cpp.o CMakeFiles/Lab5.dir/SMIterator.cpp.o CMakeFiles/Lab5.dir/SortedMap.cpp.o  -o Lab5 
